@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleRunner": {
+      "commandName": "Project",
+      "commandLineArgs": "-t DOCUMENT,IMAGE -p C:\\\\Users\\\\Matheus\\\\Desktop -d C:\\\\Users\\\\Matheus\\\\Desktop\\\\Backup"
+    }
+  }
+}
